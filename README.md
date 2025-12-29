@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### @elrayyxml/baileys
+### ASITHA-MD (Baileys)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-<p><em>Baileys Modified</em></p>
+<p><em>Modified Baileys for ASITHA-MD</em></p>
 
-<img src="https://files.catbox.moe/7m4cuw.jpg" width="300" alt="Cover Banner" />
+<img src="https://dbv5.pages.dev/IMG-20251212-WA0148(1).jpg" width="300" alt="Cover Banner" />
 
 </div>
 
@@ -25,7 +25,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-API-green.svg?logo=whatsapp)](https://whatsapp.com)
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-green.svg)](https://nodejs.org)
 [![npm downloads](https://img.shields.io/npm/dt/@elrayyxml/baileys.svg?color=blueviolet&label=Downloads&logo=npm)](https://www.npmjs.com/package/@elrayyxml/baileys)
-[![REST API](https://img.shields.io/badge/REST_API-green.svg)](https://api.elrayyxml.web.id)
 
 </div>
 
@@ -35,7 +34,6 @@
 npm install @elrayyxml/baileys
 # or
 yarn add @elrayyxml/baileys
-```
 
 ### `package.json` Fork Baileys
 
