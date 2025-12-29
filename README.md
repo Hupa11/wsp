@@ -34,7 +34,7 @@
 npm install @elrayyxml/baileys
 # or
 yarn add @elrayyxml/baileys
-
+```
 ### `package.json` Fork Baileys
 
 ```json
